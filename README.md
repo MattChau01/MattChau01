@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"> Hello World! I'm Matthew 👋 <h1> 
+
 
 <!--
 **MattChau01/MattChau01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
