@@ -6,7 +6,7 @@
 <h2> :left_speech_bubble: About me </h2>
 I am a full-stack software developer located in Orange County. What makes me excited about programming is how flexible and limitless creativity can go. I enjoy the victories after solving problems, but always welcome the challenges to learn more. My simple pleasures include going to the beach :beach_umbrella: and spending quality time with family! :family_man_woman_boy_boy: Another fun fact about myself is that I like escape rooms! :jigsaw:	
 <br></br>
-CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success
+CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success :arrow_right: Software Developer
 <br></br>
 :bulb: <strong>Ask me about my journey!<strong>
 
@@ -36,4 +36,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 <a href="mailto:matthewwchau@gmail.com">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<br></br>
+
+![MattChau01's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattchau01&hide=stars&count_private=true&theme=tokyonight)
 
