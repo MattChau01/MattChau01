@@ -22,6 +22,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/about/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
+[![My Skills](https://skillicons.dev/icons?i=materialui	)](https://mui.com/)
 
 <!--:open_book: Currently studying: Socket.io -->
     
