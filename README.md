@@ -35,7 +35,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 :open_book: To do list:
 
 ```
- - Learn Python 🐍
+ - Learn Java / C ++ 🐍
  - Practice authentication and authorization 🔓	
 ```
 
