@@ -24,7 +24,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
 [![My Skills](https://skillicons.dev/icons?i=materialui	)](https://mui.com/)
 
-<!--:open_book: Currently studying: Socket.io -->
+:open_book: Currently studying: C# 
     
 :books: Stack: PostgreSQL, Express, React, Node.js
 
@@ -32,7 +32,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
  
 :hammer_and_wrench: Tools: React Hooks, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Socket.io
   
-:open_book: To do list:
+:bookmark_tabs: To do list:
 
 ```
  - Learn Java / C ++ 🐍
