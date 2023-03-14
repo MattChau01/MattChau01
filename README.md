@@ -24,6 +24,11 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
 [![My Skills](https://skillicons.dev/icons?i=materialui	)](https://mui.com/)
 
+<!--
+Icon for C#
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+-->
+
 :open_book: Currently studying: C# 
     
 :books: Stack: PostgreSQL, Express, React, Node.js
@@ -35,7 +40,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 :bookmark_tabs: To do list:
 
 ```
- - Learn Java / C ++ 🐍
+ - Learn: Java, TypeScript 🐍
  - Practice authentication and authorization 🔓	
 ```
 
