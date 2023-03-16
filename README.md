@@ -39,8 +39,9 @@ Icon for C#
   
 :bookmark_tabs: To do list:
 
+  <!-- - Learn: Java, TypeScript 🐍 -->
+
 ```
- - Learn: Java, TypeScript 🐍
  - Practice authentication and authorization 🔓	
 ```
 
