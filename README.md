@@ -23,6 +23,8 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
 [![My Skills](https://skillicons.dev/icons?i=materialui	)](https://mui.com/)
+[![My Skills](https://skillicons.dev/icons?i=vscode	)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio	)](https://visualstudio.microsoft.com/vs/community/)
 
 <!--
 Icon for C#
@@ -35,7 +37,7 @@ Icon for C#
 
 :memo: Languages: JavaScript, HTML5, CSS3
  
-:hammer_and_wrench: Tools: React Hooks, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Socket.io
+:hammer_and_wrench: Tools: React Hooks, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Socket.io, Material UI, VS Code, Visual Studio
   
 :bookmark_tabs: To do list:
 
