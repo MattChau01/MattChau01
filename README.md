@@ -13,6 +13,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 <h2> :computer: Languages and Tools </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/css)
@@ -26,12 +27,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=vscode	)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio	)](https://visualstudio.microsoft.com/vs/community/)
 
-<!--
-Icon for C#
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
--->
-
-:open_book: Currently studying: C# 
+<!-- :open_book: Currently studying: C# -->
     
 :books: Stack: PostgreSQL, Express, React, Node.js
 
@@ -41,9 +37,10 @@ Icon for C#
   
 :bookmark_tabs: To do list:
 
-  <!-- - Learn: Java, TypeScript 🐍 -->
+  <!-- - Learn: TypeScript 🐍 -->
 
 ```
+ - Learn: TypeScript 🐍
  - Practice authentication and authorization 🔓	
 ```
 
