@@ -31,7 +31,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
     
 :books: Stack: PostgreSQL, Express, React, Node.js
 
-:memo: Languages: JavaScript, HTML5, CSS3
+:memo: Languages: JavaScript, C#, HTML5, CSS3
  
 :hammer_and_wrench: Tools: React Hooks, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Socket.io, Material UI, VS Code, Visual Studio
   
@@ -40,8 +40,8 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
   <!-- - Learn: TypeScript 🐍 -->
 
 ```
- - Learn: TypeScript 🐍
- - Practice authentication and authorization 🔓	
+ - Learn: TypeScript 💻, MongoDB 🍃, Firebase 🔥
+ - Practice authentication 🔓 and authorization 🔓	
 ```
 
 <h2> :handshake: Let's Connect!</h2>
