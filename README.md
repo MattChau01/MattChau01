@@ -40,7 +40,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
   <!-- - Learn: TypeScript 🐍 -->
 
 ```
- - Learn: TypeScript 💻, MongoDB 🍃, Firebase 🔥
+ - Learn: Angular 📐, TypeScript 💻, MongoDB 🍃, Firebase 🔥
  - Practice authentication 🔓 and authorization 🔓	
 ```
 
