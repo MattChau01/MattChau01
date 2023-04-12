@@ -39,10 +39,10 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
   
 :bookmark_tabs: To do list:
 
-  <!-- - Learn: TypeScript -->
+  <!-- - Learn: TypeScript 💻 -->
 
 ```
- - Learn: TypeScript 💻, MongoDB 🍃, Firebase 🔥
+ - Learn: MongoDB 🍃, Firebase 🔥
  - Practice authentication 🔓 and authorization 🔓	
 ```
 
