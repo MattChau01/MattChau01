@@ -12,6 +12,8 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 
 <h2> :computer: Languages and Tools </h2>
 
+<!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/) -->
+
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
@@ -27,20 +29,20 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=vscode	)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio	)](https://visualstudio.microsoft.com/vs/community/)
 
-<!-- :open_book: Currently studying: C# -->
+:open_book: Currently studying: Python 🐍
     
 :books: Stack: PostgreSQL, Express, React, Node.js
 
-:memo: Languages: JavaScript, C#, HTML5, CSS3
+:memo: Languages: JavaScript, C#, Python, HTML5, CSS3
  
-:hammer_and_wrench: Tools: React Hooks, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Socket.io, Material UI, VS Code, Visual Studio
+:hammer_and_wrench: Tools: React Hooks, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Socket.io, Material UI, VS Code, Visual Studio, PyCharm
   
 :bookmark_tabs: To do list:
 
-  <!-- - Learn: TypeScript 🐍 -->
+  <!-- - Learn: TypeScript -->
 
 ```
- - Learn: Angular 📐, TypeScript 💻, MongoDB 🍃, Firebase 🔥
+ - Learn: TypeScript 💻, MongoDB 🍃, Firebase 🔥
  - Practice authentication 🔓 and authorization 🔓	
 ```
 
