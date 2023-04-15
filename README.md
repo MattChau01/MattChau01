@@ -15,8 +15,9 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/) -->
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/css)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/about/)
@@ -35,7 +36,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 
 :memo: Languages: JavaScript, C#, Python, HTML5, CSS3
  
-:hammer_and_wrench: Tools: React Hooks, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Socket.io, Material UI, VS Code, Visual Studio, PyCharm
+:hammer_and_wrench: Tools: React Hooks, Argon2, JSON Web Tokens, Socket.io, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Material UI, VS Code, Visual Studio, PyCharm
   
 :bookmark_tabs: To do list:
 
