@@ -30,7 +30,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=vscode	)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio	)](https://visualstudio.microsoft.com/vs/community/)
 
-:open_book: Currently studying: Python 🐍
+:open_book: Currently studying: C# 🐍
     
 :books: Stack: PostgreSQL, Express, React, Node.js
 
