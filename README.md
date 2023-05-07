@@ -12,31 +12,30 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 
 <h2> :computer: Languages and Tools </h2>
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/) -->
-
-[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/css)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/about/)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/about/)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
 [![My Skills](https://skillicons.dev/icons?i=materialui	)](https://mui.com/)
 [![My Skills](https://skillicons.dev/icons?i=vscode	)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio	)](https://visualstudio.microsoft.com/vs/community/)
+[![My Skills](https://skillicons.dev/icons?i=dotnet	)](https://dotnet.microsoft.com/en-us/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/css)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 
 :open_book: Currently studying: C# 🐍
     
 :books: Stack: PostgreSQL, Express, React, Node.js
 
-:memo: Languages: JavaScript, C#, Python, HTML5, CSS3
+:memo: Languages: JavaScript, C#, Python, SQL, HTML5, CSS3
  
-:hammer_and_wrench: Tools: React Hooks, Argon2, JSON Web Tokens, Socket.io, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Material UI, VS Code, Visual Studio, PyCharm
+:hammer_and_wrench: Tools: React Hooks, Argon2, JSON Web Tokens, Socket.io, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Material UI, VS Code, Visual Studio, PyCharm, .NET
   
 :bookmark_tabs: To do list:
 
