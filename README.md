@@ -28,21 +28,33 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/css)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-
-:open_book: Currently studying: C# 🐍
-    
-:books: Stack: PostgreSQL, Express, React, Node.js
-
-:memo: Languages: JavaScript, C#, Python, SQL, HTML5, CSS3
- 
-:hammer_and_wrench: Tools: React Hooks, Argon2, JSON Web Tokens, Socket.io, npm, Figma, Bootstrap, Webpack, Babel, Pgweb, Material UI, VS Code, Visual Studio, PyCharm, .NET
   
+
+:open_book: Currently studying: 
+```  
+  C# 🐍
+```    
+:books: Stack: 
+```  
+  PERN: PostgreSQL, Express.js, React.js, Node.js
+```
+:memo: Languages: 
+```  
+  JavaScript, C#, Python, SQL, HTML5, CSS3
+``` 
+:hammer_and_wrench: Tools: 
+```  
+  React Hooks, Argon2, JSON Web Tokens, Socket.io, npm, Figma, Bootstrap, Webpack,
+  Babel, Pgweb, Material UI, VS Code, Visual Studio, PyCharm, .NET
+```  
 :bookmark_tabs: To do list:
 
-  <!-- - Learn: TypeScript 💻 -->
+  <!-- 
+     - Learn: TypeScript 💻
+     - Learn: MongoDB 🍃, Firebase 🔥
+  -->
 
 ```
- - Learn: MongoDB 🍃, Firebase 🔥
  - Practice authentication 🔓 and authorization 🔓	
 ```
 
