@@ -12,6 +12,8 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 
 <h2> :computer: Languages and Tools </h2>
 
+[![My Skills](https://skillicons.dev/icons?i=babel)](https://babeljs.io/)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/about/)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
@@ -19,6 +21,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/about/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/en-us)
 [![My Skills](https://skillicons.dev/icons?i=materialui	)](https://mui.com/)
 [![My Skills](https://skillicons.dev/icons?i=vscode	)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio	)](https://visualstudio.microsoft.com/vs/community/)
@@ -28,7 +31,6 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/css)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
-  
 
 :open_book: Currently studying: 
 ```  
