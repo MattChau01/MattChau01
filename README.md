@@ -38,7 +38,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 ```    
 :books: Stack: 
 ```  
-  PERN: PostgreSQL, Express.js, React.js, Node.js
+  PostgreSQL, Express.js, React.js, Node.js
 ```
 :memo: Languages: 
 ```  
@@ -57,7 +57,8 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
   -->
 
 ```
- - Practice authentication 🔓 and authorization 🔓	
+ - TypeScript 💻
+ - Angular 📐
 ```
 
 <h2> :handshake: Let's Connect!</h2>
