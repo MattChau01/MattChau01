@@ -52,7 +52,6 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 :bookmark_tabs: To do list:
 
   <!-- 
-     - Learn: TypeScript 💻
      - Learn: MongoDB 🍃, Firebase 🔥
   -->
 
@@ -67,6 +66,9 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 </a>
 <a href="mailto:matthewwchau@gmail.com">
   <img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://twitter.com/MattChau01">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <br></br>
 
