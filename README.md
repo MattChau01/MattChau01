@@ -3,14 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=500&height=45&lines=Hello+World!+I'm+Matthew!">
 </div>
 
-<h2> :left_speech_bubble: About me </h2>
+<h2 align="center"> :left_speech_bubble: About me </h2>
+<div align="center">
 I am a full-stack software developer located in Orange County. What makes me excited about programming is how creative you get to be. It's a work of art to see a simple idea being built from scratch and turn into a full scale application. I enjoy the victories after solving problems, but always welcome the challenges to learn more. My simple pleasures include going to the beach :beach_umbrella: and spending quality time with family! :family_man_woman_boy_boy: Another fun fact about myself is that I like escape rooms! :jigsaw:	
 <br></br>
 CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success :arrow_right: Software Developer
 <br></br>
 :bulb: <strong>Ask me about my journey!<strong>
+</div>
 
-<h2> :computer: Languages and Tools </h2>
+<h2 align="center"> :computer: Languages and Tools </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=babel)](https://babeljs.io/)
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
@@ -59,8 +61,8 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
  - TypeScript 💻
  - Angular 📐
 ```
-
-<h2> :handshake: Let's Connect!</h2>
+<h2 align="center"> :handshake: Let's Connect!</h2>
+<div align="center">
 <a href="https://www.linkedin.com/in/mattchau01/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -70,6 +72,12 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 <a href="https://twitter.com/MattChau01">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+</div>
 <br></br>
+<div align="center">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=mattchau01&hide=stars&count_private=true&theme=tokyonight" />
+</div>
 
+<!--
 ![MattChau01's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattchau01&hide=stars&count_private=true&theme=tokyonight)
+-->
