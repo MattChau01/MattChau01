@@ -14,7 +14,8 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 
 <h2 align="center"> :computer: Languages and Tools </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=babel)](https://babeljs.io/)
+<!--[![My Skills](https://skillicons.dev/icons?i=babel)](https://babeljs.io/)-->
+<!--[![My Skills](https://skillicons.dev/icons?i=visualstudio	)](https://visualstudio.microsoft.com/vs/community/)-->
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/about/)
@@ -26,7 +27,6 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/en-us)
 [![My Skills](https://skillicons.dev/icons?i=materialui	)](https://mui.com/)
 [![My Skills](https://skillicons.dev/icons?i=vscode	)](https://code.visualstudio.com/)
-[![My Skills](https://skillicons.dev/icons?i=visualstudio	)](https://visualstudio.microsoft.com/vs/community/)
 [![My Skills](https://skillicons.dev/icons?i=dotnet	)](https://dotnet.microsoft.com/en-us/)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
