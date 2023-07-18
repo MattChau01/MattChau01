@@ -1,6 +1,12 @@
+<!--
 <div>
   <img src="https://media.tenor.com/gSfixE9nP7EAAAAM/cat-type.gif" width="100">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=500&height=45&lines=Hello+World!+I'm+Matthew!">
+</div>
+-->
+
+<div>
+  <img src="https://raw.githubusercontent.com/MattChau01/MattChau01/main/assets/Matthew%20Chau%20-%20Banner%20(tech%20stack).png" >
 </div>
 
 <h2 align="center"> :left_speech_bubble: About me </h2>
@@ -34,6 +40,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 
+<!-- COMMENT OUT
 :open_book: Currently studying: 
 ```  
   C# 🐍
@@ -56,11 +63,25 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
   <!-- 
      - Learn: MongoDB 🍃, Firebase 🔥
   -->
-
+<!-- COMMENT OUT
 ```
  - TypeScript 💻
  - Angular 📐
 ```
+COMMENT OUT-->
+
+```
+📖 Currently studying: Cypress / Mocha / Chai
+
+📚 Stack: PostgreSQL, Express.js, React.js, Node.js
+
+📝 Languages: JavaScript, C#, Python, SQL, HTML5, CSS3
+
+🛠️ Tools: React Hooks, Argon2, JSON Web Tokens, Socket.io, npm, Figma, Bootstrap, Webpack,
+  Babel, Pgweb, Material UI, VS Code, Visual Studio, PyCharm, .NET
+
+```
+
 <h2 align="center"> :handshake: Let's Connect!</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/mattchau01/">
@@ -72,6 +93,10 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 <a href="https://twitter.com/MattChau01">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+</div>
+<br></br>
+<div align="center">
+  <img src="https://media.tenor.com/gSfixE9nP7EAAAAM/cat-type.gif" width="200">
 </div>
 <br></br>
 <div align="center">
