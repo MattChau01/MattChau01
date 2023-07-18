@@ -15,6 +15,11 @@ I am a full-stack software developer located in Orange County. What makes me exc
 <br></br>
 CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success :arrow_right: Software Developer
 <br></br>
+
+<div align="center">
+  <img src="https://media.tenor.com/gSfixE9nP7EAAAAM/cat-type.gif" width="150">
+</div>
+  
 :bulb: <strong>Ask me about my journey!<strong>
 </div>
 
@@ -93,10 +98,6 @@ COMMENT OUT-->
 <a href="https://twitter.com/MattChau01">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-</div>
-<br></br>
-<div align="center">
-  <img src="https://media.tenor.com/gSfixE9nP7EAAAAM/cat-type.gif" width="200">
 </div>
 <br></br>
 <div align="center">
