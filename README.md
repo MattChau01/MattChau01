@@ -56,16 +56,17 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 ```
 :memo: Languages: 
 ```  
-  JavaScript, C#, SQL, HTML5, CSS3
+  JavaScript, C#, Python, SQL, HTML5, CSS3
 ``` 
 :hammer_and_wrench: Tools: 
 ```  
   React Hooks, Argon2, JSON Web Tokens, Socket.io, npm, Figma, Bootstrap, Webpack,
-  Babel, Pgweb, Material UI, VS Code, Visual Studio, .NET
+  Babel, Pgweb, Material UI, VS Code, Visual Studio, PyCharm, .NET
 ```  
 <!-- removing Python/PyCharm -->
+<!--
 :bookmark_tabs: To do list:
-
+-->
   <!-- 
      - Learn: MongoDB 🍃, Firebase 🔥
   -->
@@ -81,10 +82,10 @@ COMMENT OUT-->
 
 📚 Stack: PostgreSQL, Express.js, React.js, Node.js
 
-📝 Languages: JavaScript, C#, Python, SQL, HTML5, CSS3
+📝 Languages: JavaScript, C#, SQL, HTML5, CSS3
 
 🛠️ Tools: React Hooks, Argon2, JSON Web Tokens, Socket.io, npm, Figma, Bootstrap, Webpack,
-  Babel, Pgweb, Material UI, VS Code, Visual Studio, PyCharm, .NET
+  Babel, Pgweb, Material UI, VS Code, Visual Studio, .NET
 
 ```
 
