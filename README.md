@@ -13,12 +13,14 @@
 <div align="center">
 I am a full-stack software developer located in Orange County. What makes me excited about programming is how creative you get to be. It's a work of art to see a simple idea being built from scratch and turn into a full scale application. I enjoy the victories after solving problems, but always welcome the challenges to learn more. My simple pleasures include going to the beach :beach_umbrella: and spending quality time with family! :family_man_woman_boy_boy: Another fun fact about myself is that I like escape rooms! :jigsaw:	
 <br></br>
-CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success :arrow_right: Software Developer
+CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success :arrow_right: Software Developer :arrow_right: QA Engineer
 <br></br>
 
 <div align="center">
   <img src="https://media.tenor.com/gSfixE9nP7EAAAAM/cat-type.gif" width="150">
 </div>
+
+<a style="fontsize: large" href="https://mattchau01.vercel.app/" target="_blank">View my portfolio here!</a>
   
 :bulb: <strong>Ask me about my journey!<strong>
 </div>
