@@ -6,18 +6,20 @@
 -->
 
 <div>
-  <img src="https://raw.githubusercontent.com/MattChau01/MattChau01/main/assets/Matthew%20Chau%20-%20Banner%20(tech%20stack).png" >
+  <img src="/assets/mc-tech-banner.png" >
 </div>
 
 <h2 align="center"> :left_speech_bubble: About me </h2>
 <div align="center">
-I am a full-stack software developer located in Orange County. What makes me excited about programming is how creative you get to be. It's a work of art to see a simple idea being built from scratch and turn into a full scale application. I enjoy the victories after solving problems, but always welcome the challenges to learn more. My simple pleasures include going to the beach :beach_umbrella: and spending quality time with family! :family_man_woman_boy_boy: Another fun fact about myself is that I like escape rooms! :jigsaw:	
+<!-- I am a full-stack software developer located in Orange County. What makes me excited about programming is how creative you get to be. It's a work of art to see a simple idea being built from scratch and turn into a full scale application. I enjoy the victories after solving problems, but always welcome the challenges to learn more. My simple pleasures include going to the beach :beach_umbrella: and spending quality time with family! :family_man_woman_boy_boy: Another fun fact about myself is that I like escape rooms! :jigsaw:	 -->
+
+ Hello! :wave: My name is Matthew and I work in Quality Engineering. What makes me excited about programming is how creative you get to be. It's a work of art to see a simple idea being built from scratch and turn into a full scale application. My simple pleasures include going to the beach :beach_umbrella: and spending quality time with family! :family_man_woman_boy_boy: Another fun fact about myself is that I enjoy learning the guitar! :guitar:
 <br></br>
 CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success :arrow_right: Software Developer :arrow_right: QA Engineer
 <br></br>
 
 <div align="center">
-  <img src="https://media.tenor.com/gSfixE9nP7EAAAAM/cat-type.gif" width="150">
+  <img src="/assets/typing-cat.gif" width="150">
 </div>
 
 <a style="fontsize: large" href="https://mattchau01.vercel.app/" target="_blank">View my portfolio here!</a>
@@ -80,7 +82,7 @@ CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_rig
 COMMENT OUT-->
 
 ```
-📖 Currently studying: Cypress / Mocha / Chai
+📖 Currently studying: Cypress / TypeScript
 
 📚 Stack: PostgreSQL, Express.js, React.js, Node.js
 
