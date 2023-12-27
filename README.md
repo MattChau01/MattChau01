@@ -15,14 +15,15 @@
 
  Hello! :wave: My name is Matthew and I work in Quality Engineering. What makes me excited about programming is how creative you get to be. It's a work of art to see a simple idea being built from scratch and turn into a full scale application. My simple pleasures include going to the beach :beach_umbrella: and spending quality time with family! :family_man_woman_boy_boy: Another fun fact about myself is that I enjoy learning the guitar! :guitar:
 <br></br>
-CSULB Alumni :arrow_right: Banker :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success :arrow_right: Software Developer :arrow_right: QA Engineer
-<br></br>
+CSULB Alumni :arrow_right: Business Support Analyst :arrow_right:	Logistics Coordinator :arrow_right:	QA Specialist :arrow_right:	SaaS Client Success :arrow_right: Software Developer :arrow_right: QA Engineer
+
+<h3>
+  <a style="fontsize: large" href="https://mattchau01.vercel.app/" target="_blank">View my portfolio here!</a>
+</h3>
 
 <div align="center">
   <img src="/assets/typing-cat.gif" width="150">
 </div>
-
-<a style="fontsize: large" href="https://mattchau01.vercel.app/" target="_blank">View my portfolio here!</a>
   
 :bulb: <strong>Ask me about my journey!<strong>
 </div>
